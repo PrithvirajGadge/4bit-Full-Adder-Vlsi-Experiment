@@ -387,6 +387,8 @@ The 4-bit Full Adder was successfully designed using Verilog HDL. The design can
 The circuit performs binary addition of two 4-bit numbers with an optional carry input and generates a 4-bit Sum and Carry-out.
 
 ---
+Schematic Diagram 
+<img width="1681" height="956" alt="image" src="https://github.com/user-attachments/assets/f60cb87a-df2a-487a-8f63-e512dcabfb35" />
 
 
 

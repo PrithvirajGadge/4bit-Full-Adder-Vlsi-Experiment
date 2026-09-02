@@ -391,5 +391,9 @@ Schematic Diagram
 <img width="1681" height="956" alt="image" src="https://github.com/user-attachments/assets/f60cb87a-df2a-487a-8f63-e512dcabfb35" />
 
 
+Simulation Output
+<img width="1336" height="873" alt="image" src="https://github.com/user-attachments/assets/6735972e-631a-430a-89a4-9b17e832d01b" />
+
+
 
 
